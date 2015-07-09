@@ -1,0 +1,25 @@
+{
+  "name": "desain-core",
+  "version": "0.0.0",
+  "authors": [
+    "saeful_y <saeful@lussa.net>"
+  ],
+  "description": "desain core",
+  "main": "index.js",
+  "keywords": [
+    "desain",
+    "core"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "latest"
+  },
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
